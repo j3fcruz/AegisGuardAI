@@ -98,7 +98,7 @@ AegisGuardAI/
 4.  Configure your VirusTotal API Key:
     Create a file named `.env` in the project root and add your API key:
     ```
-    VT_API_KEY="your_virustotal_api_key_here"
+    VIRUSTOTAL_API_KEY="your_virustotal_api_key_here"
     ```
 
 5.  Run the application:
