@@ -13,8 +13,8 @@ joblib==1.5.2
 plotly==5.23.0
 
 # Async & Networking
-aiohttp==3.9.5
-requests==2.32.3
+aiohttp==3.12.14
+requests==2.32.4
 tenacity==8.2.2
 
 # Threat Intelligence
@@ -36,7 +36,7 @@ maxminddb==2.6.2
 python-dotenv==1.2.1
 click==8.1.7
 watchdog==4.0.1
-protobuf==4.25.3
+protobuf==4.25.8
 packaging==24.1
 typing-extensions>=4.8.0,<5
 
